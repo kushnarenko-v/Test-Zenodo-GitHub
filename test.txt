@@ -1,2 +1,3 @@
 Test file!
-Commit for deleting.
+
+Commit to be deleted.
